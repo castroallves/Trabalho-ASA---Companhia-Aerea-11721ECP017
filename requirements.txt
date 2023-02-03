@@ -1,0 +1,7 @@
+flask
+Routes
+redis
+SQLAlchemy
+sqlalchemy-function
+flask-blueprint
+python-dotenv

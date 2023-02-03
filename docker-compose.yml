@@ -1,0 +1,7 @@
+version: "3.9"
+services:
+  ubuntuserver:
+    container_name: ubuntu
+    build: 
+      context: .
+      dockerfile: Dockerfile
